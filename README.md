@@ -83,6 +83,8 @@ I look forward to sharing my creativity and dedication to quality.
 
 <br/>  
 
+[![An image of @zaidbari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaidbari)](https://holopin.io/@zaidbari)
+<br/>  
 
 ## Connect with me  
 <div align="center">
