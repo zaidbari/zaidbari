@@ -83,11 +83,11 @@ I look forward to sharing my creativity and dedication to quality.
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/zaidbari">
-  <img align="center" src="https://readme-stats-nine-self.vercel.app/api/cards/stats?username=zaidbari&theme=tokyonight" height="180em" />
-  <img align="center" src="https://readme-stats-nine-self.vercel.app/api/cards/most-commit-language?username=zaidbari&theme=tokyonight" height="180em" />
-  <img align="center" src="https://readme-stats-nine-self.vercel.app/api/cards/repos-per-language?username=zaidbari&theme=tokyonight" height="180em" />
-  <img align="center" src="https://readme-stats-nine-self.vercel.app/api/cards/productive-time?username=zaidbari&theme=tokyonight" height="180em" />
-  <img align="center" src="https://readme-stats-nine-self.vercel.app/api/cards/profile-details?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidbari&theme=tokyonight" height="180em" />
 </div>
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidbari&theme=tokyo-night"/>
