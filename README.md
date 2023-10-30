@@ -79,18 +79,10 @@ I look forward to sharing my creativity and dedication to quality.
 <p>
   <img  height="180em" src="https://readme-stats-nine-self.vercel.app/api/top-langs/?username=zaidbari&langs_count=5&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border" alt=zaidbari />
   <img  height="180em" src="https://readme-stats-nine-self.vercel.app/api?username=zaidbari&show_icons=true&locale=en&theme=tokyonight&hide_border" alt="zaidbari" />
-  <img  height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidbari&theme=tokyonight"  />
 </p>
 
-<h3 align="center">Statistics</h3>
-<div align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidbari&theme=tokyonight" height="180em" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidbari&theme=tokyonight" height="180em" />
-</div>
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidbari&theme=tokyo-night"/>
-
- 
 
 ## Connect with me  
 <div align="center">
