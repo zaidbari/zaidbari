@@ -76,11 +76,9 @@ I look forward to sharing my creativity and dedication to quality.
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://readme-stats-nine-self.vercel.app/api/top-langs/?username=zaidbari&langs_count=5&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt=zaidbari />
-<img align="center" height="180em" src="https://readme-stats-nine-self.vercel.app/api?username=zaidbari&show_icons=true&locale=en&theme=tokyonight" alt="zaidbari" />
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidbari&theme=tokyonight" height="180em" />
-
-</p>
+<img  height="180em" src="https://readme-stats-nine-self.vercel.app/api/top-langs/?username=zaidbari&langs_count=5&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt=zaidbari />
+<img  height="180em" src="https://readme-stats-nine-self.vercel.app/api?username=zaidbari&show_icons=true&locale=en&theme=tokyonight" alt="zaidbari" />
+<img  height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidbari&theme=tokyonight"  />
 
 <h3 align="center">Statistics</h3>
 <div align="center">
