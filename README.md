@@ -80,18 +80,20 @@ I look forward to sharing my creativity and dedication to quality.
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidbari&show_icons=true&locale=en&theme=tokyonight" alt="zaidbari" /></p>
 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidbari&theme=tokyonight" alt="zaidbari" /></p>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidbari&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaidbari&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidbari&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidbari&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidbari&theme=tokyonight" height="180em" />
-
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="https://github.com/zaidbari">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidbari&theme=tokyonight" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidbari&theme=tokyonight" height="180em" />
+</div>
 <h2 align="left">⚡Activity Graph:</h2>
-
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidbari&theme=tokyo-night"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  
 
 ## Connect with me  
