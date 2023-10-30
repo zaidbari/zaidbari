@@ -13,6 +13,10 @@ I look forward to sharing my creativity and dedication to quality.
 <br/>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidbari&theme=tokyonight" alt="zaidbari" /></a> </p>
+<br/>  
+
+[![An image of @zaidbari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaidbari)](https://holopin.io/@zaidbari)
+<br/> 
 
 ## My Skill Set  
 <p align="left">
@@ -91,10 +95,7 @@ I look forward to sharing my creativity and dedication to quality.
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidbari&theme=tokyo-night"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<br/>  
-
-[![An image of @zaidbari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaidbari)](https://holopin.io/@zaidbari)
-<br/>  
+ 
 
 ## Connect with me  
 <div align="center">
@@ -118,18 +119,10 @@ I look forward to sharing my creativity and dedication to quality.
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zaidbari&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=itszbari&&style=flat-square" align="center" />
-</div>  
   
