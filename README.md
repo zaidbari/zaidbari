@@ -37,7 +37,7 @@ I look forward to sharing my creativity and dedication to quality.
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=zaidbari&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=zaidbari&theme=nord&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
