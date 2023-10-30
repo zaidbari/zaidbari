@@ -80,8 +80,6 @@ I look forward to sharing my creativity and dedication to quality.
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidbari&show_icons=true&locale=en&theme=tokyonight" alt="zaidbari" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidbari&theme=tokyonight" alt="zaidbari" /></p>
-
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/zaidbari">
@@ -117,11 +115,5 @@ I look forward to sharing my creativity and dedication to quality.
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-<br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zaidbari&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
   
