@@ -12,7 +12,7 @@ I look forward to sharing my creativity and dedication to quality.
 
 <br/>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidbari&theme=tokyonight&no-frame=true&no-bg=true" alt="zaidbari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaidbari&theme=tokyonight&no-frame=true&no-bg=true&rank=-UNKNOWN" alt="zaidbari" /></a> </p>
 <br/>  
 
 [![An image of @zaidbari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaidbari)](https://holopin.io/@zaidbari)
