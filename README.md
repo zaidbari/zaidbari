@@ -11,7 +11,8 @@ I look forward to sharing my creativity and dedication to quality.
   
 
 <br/>  
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P8QPOA7)
+<br />
 [![An image of @zaidbari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaidbari)](https://holopin.io/@zaidbari)
 <br/> 
 
